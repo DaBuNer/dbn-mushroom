@@ -7,6 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
+        <div>提交一次代码</div>
 
       <nav>
         <RouterLink to="/">1</RouterLink>
